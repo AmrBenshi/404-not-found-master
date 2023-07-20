@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](Screenshot.png)
+![screenshot](Screenshot.png?raw=true "404 Not Found Page")
 
 - Where can I see your demo ?
 - in my github profile in 404-not-found-master repo
